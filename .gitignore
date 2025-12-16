@@ -2,3 +2,4 @@
 **.vscode
 **/dist/
 **/saved_metrics/
+**/.venv
