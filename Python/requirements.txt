@@ -1,0 +1,9 @@
+ipykernel
+numpy
+matplotlib
+tqdm
+cython
+snakeviz
+numba
+pandas
+dask
